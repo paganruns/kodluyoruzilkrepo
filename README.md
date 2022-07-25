@@ -5,7 +5,7 @@
 
 *italyan*
 **kalın**
-[google için](google.com)
+![Patika için Resim](https://i.ibb.co/FnXT3cY/PATIKA.png)
 
 ```
 # code block
